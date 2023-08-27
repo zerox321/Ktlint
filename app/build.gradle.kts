@@ -77,4 +77,3 @@ tasks.register<Copy>("installGitHook") {
 }
 
 tasks.getByName("preBuild").dependsOn("installGitHook")
-

@@ -28,9 +28,10 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-fun mido(){
+fun mido() {
     // this is a commit
 }
+
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Text(
