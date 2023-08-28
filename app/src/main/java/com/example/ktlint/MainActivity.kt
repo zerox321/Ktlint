@@ -28,8 +28,8 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-fun mido() {
-    // this is a commit
+fun test() {
+    TODO("TO BE DONE LATER")
 }
 
 @Composable

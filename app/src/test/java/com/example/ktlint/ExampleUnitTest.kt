@@ -1,6 +1,6 @@
 package com.example.ktlint
 
-import org.junit.Assert.*
+import org.junit.Assert.assertEquals
 import org.junit.Test
 
 /**
